@@ -1,0 +1,11 @@
+
+
+
+
+
+DEFAULT_CLUSTER_ID = 1
+REQUESTER = "elari"
+ACCESS_KEY_ID = "93deb2ea5f684c7fa627364361f93d2e"
+ACCESS_KEY_SECRET = "cecba4c9da1a4108b132828fe3e37aab"
+HOST = "tst.runnto.com"
+PORT = 7100
